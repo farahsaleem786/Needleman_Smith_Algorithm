@@ -11,6 +11,9 @@ Welcome to the Bioinformatics Algorithms project! This application implements th
 
 To run this project, you need to have Python installed along with the required libraries. You can install the required libraries using pip.
 
+## Execute
+python app.py
+
 ## Screenshots
 
 Here are some screenshots of the application panels:
