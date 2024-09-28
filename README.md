@@ -22,8 +22,8 @@ Here are some screenshots of the application panels:
   ![Welcome Screen](Capture.PNG)
 
 - **Needleman-Wunsch Panel**:
-  ![Needleman-Wunsch Panel](pic1.png)
+  ![Needleman-Wunsch Panel](pic1.PNG)
 
 - **Smith-Waterman Panel**:
-  ![Smith-Waterman Panel](pic2.png)
+  ![Smith-Waterman Panel](pic2.PNG)
 
