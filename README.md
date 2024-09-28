@@ -19,7 +19,7 @@ python app.py
 Here are some screenshots of the application panels:
 
 - **Welcome Screen**:
-  ![Welcome Screen](Capture.png)
+  ![Welcome Screen](Capture.PNG)
 
 - **Needleman-Wunsch Panel**:
   ![Needleman-Wunsch Panel](pic1.png)
